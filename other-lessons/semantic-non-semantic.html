@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Semantic vs Non-Semantic</title>
+  </head>
+  <body>
+    <h2>Semantic vs Non-Semantic</h2>
+    <!-- non-semanctic elements
+    they provide no context to what's inside the tag -->
+    <!-- eg: div, span -->
+    <div>
+      <h1>This is a heading</h1>
+      <h2>This is a subheading</h2>
+    </div>
+    <div>This is a navigation</div>
+    <br />
+    <!-- kebab case, used for classes -->
+    <div class="class-name">
+      <div>This is a section</div>
+      <div>This is another section</div>
+      <div>This is another section</div>
+    </div>
+    <div>This is a footer</div>
+    <!-- Semantic Elements - give us context to whats inside the tags -->
+    <header>
+      <h1>This is a heading</h1>
+      <!-- camelCase -->
+      <h2 id="className">This is a subheading</h2>
+    </header>
+    <nav>This is a navigation</nav>
+    <br />
+    <main>
+      <div>This is a section</div>
+      <article>
+        <h3>Another Cool Title</h3>
+        <section>This is another section</section>
+      </article>
+    </main>
+    <div>This is a footer</div>
+  </body>
+</html>

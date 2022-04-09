@@ -1,0 +1,131 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 500px 250px 400px 300px;
+    grid-template-rows: 70px 300px 50px 300px;
+    /* justify-content: space-around;
+    max-width: max-content; */
+    grid-gap: 10px;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    border: 1px solid black;
+}
+
+#artist {
+    grid-column: 1/4;
+}
+
+.book {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    border: 1px solid black;
+    padding: 10px;
+    grid-column: 4 / 5;
+    grid-row: 2 / 5;
+}
+
+.em {
+    display: flex;
+    border: 1px solid black;
+    padding: 10px;
+    grid-column: 1 / 2;
+    grid-row: 2 / 3;
+}
+.em-head {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+.em-head img {
+    max-width: 200px;
+    max-height: 200px;
+    padding-left: 100px;
+}
+
+.ye {
+    display: flex;
+    border: 1px solid black;
+    justify-content: space-around;
+    padding: 10px;
+    grid-column: 3 / 4;
+    grid-row: 4 / 5;
+}
+.ye-header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.ye-songs {
+    display: flex;
+    flex-direction: column;
+    /* align-items: flex-end; */
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.kdot {
+    display: flex;
+    border: 1px solid black;
+    padding: 10px;
+    grid-column: 2 / 4;
+    grid-row: 2 / 4;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.khead {
+    display: flex;
+    flex-direction: column;
+}
+
+.kdotimg1 {
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+}
+
+.logic {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    border: 1px solid black;
+    padding: 10px;
+    grid-column: 2 / 3;
+    grid-row: 4 / 5;
+}
+
+.cole {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    padding: 20px;
+    grid-column: 1 / 2;
+    grid-row: 3 / 5;
+    justify-content: space-between;
+}
+
+.cole-header {
+    display: flex;
+    justify-content: center;
+}
+
+.cole-img {
+    display: flex;
+    justify-content: center;
+}
+
+.cole-p {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
