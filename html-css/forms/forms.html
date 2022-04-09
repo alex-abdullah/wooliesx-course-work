@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Forms</title>
+  </head>
+  <body>
+    <!-- Examples of forms:
+    - login in form
+    - contact form
+    - searchbars
+    - item forms in e-commerce websites -->
+    <form action="https://formspree.io/f/xpzbjnoy" method="POST">
+      <!-- we can put any characters -->
+      <div>
+        <label for="name">Name:</label>
+        <!-- id - needs to be same as the attribute label. Links label with an input -->
+        <!-- name - used for form submission, input without name won't get sent to backend -->
+        <input
+          type="text"
+          id="name"
+          name="fullName"
+          maxlength="10"
+          required
+          placeholder="Please enter your name"
+        />
+      </div>
+      <br />
+      <div>
+        <label for="age">Age: </label>
+        <input
+          type="number"
+          id="age"
+          min="1"
+          max="150"
+          placeholder="Please enter age"
+        />
+      </div>
+      <br />
+      <div>
+        <label for="colour">Colour:</label>
+        <select id="colour" required>
+          <option value="">None</option>
+          <option value="red">Red</option>
+          <option value="green">Green</option>
+          <option value="blue">Blue</option>
+          <option value="black">Black</option>
+        </select>
+      </div>
+      <br />
+      <div>
+        <label for="email">Email:</label>
+        <input type="email" id="email" required />
+      </div>
+      <br />
+      <br />
+      <label for="phone">Phone Number:</label>
+      <input
+        type="tel"
+        id="phone"
+        pattern="[0-9]{10}"
+        placeholder="eg 040000000000"
+      />
+      <br />
+      <br />
+      <textarea
+        placeholder="Add some text here"
+        rows="5"
+        cols="30"
+        required
+      ></textarea>
+      <br />
+      <input type="reset" />
+      <input type="submit" />
+    </form>
+  </body>
+</html>

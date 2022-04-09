@@ -1,0 +1,40 @@
+.artist-grid {
+    display: grid;
+    grid-template-columns: 30vw 18vw 30vw 18vw;
+    grid-template-rows: 50px 400px 50px 400px;
+    grid-template-areas:
+        "artist artist artist bookh"
+        "doja ariana ariana book"
+        "drake ariana ariana book"
+        "drake gibbs mj book";
+    gap: 10px;
+}
+
+.artist-heading {
+    grid-area: artist;
+}
+
+.book-heading {
+    grid-area: bookh;
+}
+.doja {
+    grid-area: doja;
+}
+.ariana {
+    grid-area: ariana;
+}
+.drake {
+    grid-area: drake;
+}
+.gibbs {
+    grid-area: gibbs;
+}
+.mj {
+    grid-area: mj;
+}
+.abel {
+    grid-area: mj;
+}
+.book {
+    grid-area: book;
+}

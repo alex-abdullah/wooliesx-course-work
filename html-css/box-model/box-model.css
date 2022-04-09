@@ -1,0 +1,18 @@
+p {
+  background-color: aquamarine;
+  padding: 100px 20px 10px 5px;
+}
+
+div {
+  height: 100px;
+  width: 100px;
+  background-color: purple;
+  color: white;
+  padding: 10px;
+  /* border: 5px solid yellow; */
+  margin: 30px;
+}
+
+h3 {
+  margin: 0;
+}
