@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>BEM Demo</title>
+        <link rel="stylesheet" href="../sass/bem-example.css" />
+    </head>
+    <body>
+        <div class="header">
+            <h1 class="header__text">My first header section</h1>
+            <p class="header__text">
+                This header has a 3px border that is dashed
+            </p>
+            <p class="header__text header__text--deprecated">
+                I'm a blue line through paragraph
+            </p>
+        </div>
+        <div class="header header--secondary">
+            <h1 class="header__text header__text--center">I'm in the center</h1>
+            <p class="header__text">
+                This header section has a coral 2px border that is solid
+            </p>
+            <p
+                class="header__text header__text--deprecated header__text--right"
+            >
+                I'm a blue line through paragraph, I'm also aligned to the right
+            </p>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,23 @@
+.header {
+  border: 3px dashed green;
+}
+.header__text {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.header--secondary {
+  border-width: 2px;
+  border-color: coral;
+  border-style: solid;
+}
+.header__text--deprecated {
+  color: blue;
+  text-decoration: line-through;
+}
+.header__text--center {
+  text-align: center;
+}
+.header__text--right {
+  text-align: right;
+}
+
+/*# sourceMappingURL=bem-example.css.map */

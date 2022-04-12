@@ -1,0 +1,21 @@
+button {
+  background-color: rgb(53, 53, 191);
+}
+
+div {
+  display: flex;
+  justify-content: space-between;
+}
+
+h1 {
+  color: rgb(53, 53, 191);
+  border: 1px solid black;
+  font-family: arial;
+}
+
+p {
+  color: rgb(99, 21, 21);
+  border: 1px solid black;
+}
+
+/*# sourceMappingURL=variables.css.map */

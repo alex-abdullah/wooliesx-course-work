@@ -1,0 +1,25 @@
+$primary-color: rgb(53, 53, 191);
+$secondary-color: rgb(99, 21, 21);
+$border-primary: 1px solid black;
+$flex: space-between;
+$primary-font: arial;
+
+button {
+    background-color: $primary-color;
+}
+
+div {
+    display: flex;
+    justify-content: $flex;
+}
+
+h1 {
+    color: $primary-color;
+    border: $border-primary;
+    font-family: $primary-font;
+}
+
+p {
+    color: $secondary-color;
+    border: $border-primary;
+}

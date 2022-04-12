@@ -1,0 +1,23 @@
+@mixin primary {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 5px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.big-section {
+    @include primary;
+
+    &__paragraph-one {
+        border: dotted red;
+    }
+
+    &__paragraph-two {
+        border: solid blue;
+    }
+
+    &__paragraph-three {
+        border: dashed blue;
+    }
+}

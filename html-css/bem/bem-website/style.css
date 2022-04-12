@@ -1,0 +1,21 @@
+.button {
+    border-radius: 10px;
+    padding: 20px;
+}
+.button--get-started {
+    background-color: rgb(144, 72, 144);
+    color: white;
+}
+.button--get-started:hover {
+    background-color: purple;
+}
+.button--download {
+    background-color: white;
+    color: rgb(66, 66, 66);
+}
+.button--download:hover {
+    background-color: rgb(81, 81, 81);
+    color: white;
+}
+
+/*# sourceMappingURL=style.css.map */

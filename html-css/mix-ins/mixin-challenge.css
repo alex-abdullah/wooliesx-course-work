@@ -1,0 +1,16 @@
+.big-section {
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  border: 5px;
+  text-align: center;
+  font-size: 30px;
+}
+.big-section__paragraph-one {
+  border: dotted red;
+}
+.big-section__paragraph-two {
+  border: solid blue;
+}
+.big-section__paragraph-three {
+  border: dashed blue;
+}

@@ -1,0 +1,70 @@
+.block {
+    border: 2px solid black;
+}
+
+.block__heading {
+    text-decoration: underline;
+}
+
+.block__paragraph {
+    font-weight: bold;
+}
+
+.block__paragraph--red {
+    color: red;
+}
+
+.block__paragraph--arial {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.button {
+    background-color: #228b22;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border-width: 0px;
+    border-radius: 3px;
+    padding: 5px;
+}
+
+.button:hover {
+    background-color: #134613;
+}
+
+.button--narrow {
+    padding: 5px;
+}
+
+.button--transparent {
+    background-color: white;
+    border-width: 1px;
+    border-color: lightgrey;
+    color: black;
+}
+
+.button--transparent:hover {
+    background-color: lightgrey;
+}
+
+.button--rounded {
+    border-radius: 25px;
+    width: 110px;
+}
+
+.button--special {
+    color: black;
+}
+
+.button--special:hover {
+    color: white;
+    background-color: #228b22;
+}
+
+.button--invisible {
+    background-color: white;
+}
+
+.button--pink {
+    background-color: lightsalmon;
+}

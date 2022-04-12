@@ -1,0 +1,33 @@
+/* SCSS HEX */
+body {
+  background-color: rgb(255, 255, 255);
+}
+
+p {
+  color: #000000;
+  font-size: 12px;
+}
+
+.button {
+  background-color: #2f1000;
+  border: 0px solid rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+  border-radius: 3px;
+  padding: 20px;
+  width: 140px;
+  border-color: #ffb685;
+  border-width: 2px;
+}
+.button:hover {
+  background-color: #621b00;
+}
+.button--secondary {
+  background-color: rgb(255, 255, 255);
+  color: #2f1000;
+}
+.button--secondary:hover {
+  background-color: #2f1000;
+  color: rgb(255, 255, 255);
+}
+
+/*# sourceMappingURL=main.css.map */

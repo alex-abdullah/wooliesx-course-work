@@ -1,0 +1,51 @@
+// Modules & Partials
+
+// Partials
+// Partials are added to a sass file wih the @use keyword
+@use "colours";
+@use "fonts";
+
+body {
+    background-color: colours.$colour-background;
+}
+
+p {
+    color: colours.$colour-text;
+    font-size: fonts.$font-size-small;
+}
+
+.button {
+    background-color: colours.$colour-primary;
+    border: 0px solid colours.$colour-background;
+    color: colours.$colour-background;
+    border-radius: 3px;
+    padding: 20px;
+    width: 140px;
+    border-color: colours.$colour-secondary-accent;
+    border-width: 2px;
+
+    &:hover {
+        background-color: colours.$colour-primary-accent;
+    }
+
+    &--secondary {
+        background-color: colours.$colour-background;
+        color: colours.$colour-primary;
+
+        &:hover {
+            background-color: colours.$colour-primary;
+            color: colours.$colour-background;
+        }
+    }
+}
+
+// Modules
+// Modules are effectivley the same as partials although have
+
+// underscore one (_) - pulls rules but does not build a css file
+
+// Modules: files we @use or @import
+// Partials: use a leading underscore, does not get built
+
+// @use: access variables from another file, must reference the file name eg. colours.$colours-background
+// @import: combine that file with this file

@@ -1,0 +1,72 @@
+@use "font-size" as *;
+@use "font-colour" as *;
+@use "font-border" as *;
+
+.document {
+    font-family: $primary-font;
+
+    &__border {
+        &--first-section {
+            border: 3px dashed green;
+        }
+        &--second-section {
+            border: $solid-border $secondary-color;
+        }
+    }
+    &__second-header--centered {
+        text-align: center;
+    }
+    &__paragraph {
+        &--blue {
+            color: $favourite-color;
+        }
+        &--line-through {
+            text-decoration: line-through;
+        }
+        &--right-align {
+            text-align: right;
+        }
+    }
+}
+
+.document2 {
+    &__box1--border {
+        border: $solid-border black;
+    }
+    &__box-header {
+        &--blue {
+            color: $favourite-color;
+        }
+        &--font {
+            font-family: $primary-font;
+            font-size: 24px;
+        }
+    }
+    &__box-par {
+        &--red {
+            color: red;
+        }
+        &--underln {
+            text-decoration: underline;
+        }
+        &--font {
+            font-family: $primary-font;
+            font-size: 18px;
+        }
+        &--coral {
+            color: $secondary-color;
+        }
+        &--bold {
+            font-weight: bold;
+        }
+        &--brown {
+            color: brown;
+        }
+    }
+    &__li {
+        &--no-bullet {
+            list-style-type: none;
+            font-size: 12px;
+        }
+    }
+}

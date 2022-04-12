@@ -1,0 +1,12 @@
+@use "flex" as *;
+$text-colour: black;
+
+nav {
+    @include flex(row);
+    background-color: white;
+}
+
+section {
+    @include flex(column);
+    background-color: lightblue;
+}

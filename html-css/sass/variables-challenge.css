@@ -1,0 +1,57 @@
+.document {
+  font-family: arial;
+}
+.document__border--first-section {
+  border: 3px dashed green;
+}
+.document__border--second-section {
+  border: 2px solid coral;
+}
+.document__second-header--centered {
+  text-align: center;
+}
+.document__paragraph--blue {
+  color: blue;
+}
+.document__paragraph--line-through {
+  text-decoration: line-through;
+}
+.document__paragraph--right-align {
+  text-align: right;
+}
+
+.document2__box1--border {
+  border: 2px solid black;
+}
+.document2__box-header--blue {
+  color: blue;
+}
+.document2__box-header--font {
+  font-family: arial;
+  font-size: 24px;
+}
+.document2__box-par--red {
+  color: red;
+}
+.document2__box-par--underln {
+  text-decoration: underline;
+}
+.document2__box-par--font {
+  font-family: arial;
+  font-size: 18px;
+}
+.document2__box-par--coral {
+  color: coral;
+}
+.document2__box-par--bold {
+  font-weight: bold;
+}
+.document2__box-par--brown {
+  color: brown;
+}
+.document2__li--no-bullet {
+  list-style-type: none;
+  font-size: 12px;
+}
+
+/*# sourceMappingURL=variables-challenge.css.map */

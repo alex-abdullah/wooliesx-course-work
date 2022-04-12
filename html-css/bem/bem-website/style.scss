@@ -1,0 +1,23 @@
+.button {
+    border-radius: 10px;
+    padding: 20px;
+
+    &--get-started {
+        background-color: rgb(144, 72, 144);
+        color: white;
+
+        &:hover {
+            background-color: purple;
+        }
+    }
+
+    &--download {
+        background-color: white;
+        color: rgb(66, 66, 66);
+
+        &:hover {
+            background-color: rgb(81, 81, 81);
+            color: white;
+        }
+    }
+}
