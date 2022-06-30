@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{ECB3DE8C-0586-48D3-A6F7-61BC0B63A9BD}|Default">
+  <MonoDevelop.Ide.ItemProperties.introduction PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../aus-csharp-challenges/Challenges/c1_types_and_control_flow/Challenge.cs">
+    <Files>
+      <File FileName="introduction/Program.cs" Line="10" Column="9" />
+      <File FileName="../../../../aus-csharp-challenges/Challenges/c1_types_and_control_flow/Challenge.cs" Line="96" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="introduction" expanded="True">
+            <Node name="introduction" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

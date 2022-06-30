@@ -1,0 +1,13 @@
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/WordleGang/WordleGang/bin/Debug/netcoreapp3.1/WordleGang.deps.json
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/WordleGang/WordleGang/bin/Debug/netcoreapp3.1/WordleGang.runtimeconfig.json
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/WordleGang/WordleGang/bin/Debug/netcoreapp3.1/WordleGang.runtimeconfig.dev.json
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/WordleGang/WordleGang/bin/Debug/netcoreapp3.1/WordleGang.dll
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/WordleGang/WordleGang/bin/Debug/netcoreapp3.1/WordleGang.pdb
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/WordleGang/WordleGang/obj/Debug/netcoreapp3.1/WordleGang.csproj.AssemblyReference.cache
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/WordleGang/WordleGang/obj/Debug/netcoreapp3.1/WordleGang.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/WordleGang/WordleGang/obj/Debug/netcoreapp3.1/WordleGang.AssemblyInfoInputs.cache
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/WordleGang/WordleGang/obj/Debug/netcoreapp3.1/WordleGang.AssemblyInfo.cs
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/WordleGang/WordleGang/obj/Debug/netcoreapp3.1/WordleGang.csproj.CoreCompileInputs.cache
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/WordleGang/WordleGang/obj/Debug/netcoreapp3.1/WordleGang.dll
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/WordleGang/WordleGang/obj/Debug/netcoreapp3.1/WordleGang.pdb
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/WordleGang/WordleGang/obj/Debug/netcoreapp3.1/WordleGang.genruntimeconfig.cache

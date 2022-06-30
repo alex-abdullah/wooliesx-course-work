@@ -1,0 +1,13 @@
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/Deserialization/Deserialization/bin/Debug/netcoreapp3.1/Deserialization.deps.json
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/Deserialization/Deserialization/bin/Debug/netcoreapp3.1/Deserialization.runtimeconfig.json
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/Deserialization/Deserialization/bin/Debug/netcoreapp3.1/Deserialization.runtimeconfig.dev.json
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/Deserialization/Deserialization/bin/Debug/netcoreapp3.1/Deserialization.dll
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/Deserialization/Deserialization/bin/Debug/netcoreapp3.1/Deserialization.pdb
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/Deserialization/Deserialization/obj/Debug/netcoreapp3.1/Deserialization.csproj.AssemblyReference.cache
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/Deserialization/Deserialization/obj/Debug/netcoreapp3.1/Deserialization.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/Deserialization/Deserialization/obj/Debug/netcoreapp3.1/Deserialization.AssemblyInfoInputs.cache
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/Deserialization/Deserialization/obj/Debug/netcoreapp3.1/Deserialization.AssemblyInfo.cs
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/Deserialization/Deserialization/obj/Debug/netcoreapp3.1/Deserialization.csproj.CoreCompileInputs.cache
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/Deserialization/Deserialization/obj/Debug/netcoreapp3.1/Deserialization.dll
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/Deserialization/Deserialization/obj/Debug/netcoreapp3.1/Deserialization.pdb
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/Deserialization/Deserialization/obj/Debug/netcoreapp3.1/Deserialization.genruntimeconfig.cache

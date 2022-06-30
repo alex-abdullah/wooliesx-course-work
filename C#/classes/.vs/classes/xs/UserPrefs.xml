@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{00C86483-A04B-4C22-8205-587C11B502A1}|Default">
+  <MonoDevelop.Ide.ItemProperties.classes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="classes/person.cs">
+    <Files>
+      <File FileName="classes/Program.cs" Line="47" Column="32" />
+      <File FileName="classes/person.cs" Line="23" Column="1" />
+      <File FileName="classes/EmptyClass.cs" />
+      <File FileName="classes/AdoptionCenter.cs" Line="30" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="classes" expanded="True" selected="True">
+            <Node name="classes" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

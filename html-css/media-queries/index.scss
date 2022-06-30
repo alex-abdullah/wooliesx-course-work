@@ -1,0 +1,77 @@
+// $xs: 576px; // Extra small
+// $sm: 768px; // Small
+// $md: 992px; // Medium
+// $lg: 1200px; // Large
+// $xl: 1400px; // Extra Large
+
+@use "media" as *;
+
+body {
+    @include phone {
+        background-color: yellow;
+    }
+    @include tablet {
+        background-color: greenyellow;
+    }
+    @include tablet-landscape {
+        background-color: aquamarine;
+    }
+    @include laptop {
+        background-color: aqua;
+    }
+}
+
+p {
+    @include phone {
+        font-size: 18px;
+    }
+    @include tablet {
+        font-size: 20px;
+    }
+    @include tablet-landscape {
+        font-size: 22px;
+    }
+    @include laptop {
+        font-size: 24px;
+    }
+}
+
+.grid-container {
+    display: grid;
+    @media only screen and (max-width: $xs) {
+        grid-template-columns: 1fr;
+        img {
+            width: 90vw;
+        }
+    }
+
+    // tablet
+    @media only screen and (min-width: ($xs + 1px)) {
+        grid-template-columns: 1fr 1fr;
+        img {
+            width: 45vw;
+        }
+    }
+
+    // tablet landscape
+    @media only screen and (min-width: ($sm + 1px)) {
+        grid-template-columns: 1fr 1fr;
+        img {
+            width: 45vw;
+        }
+    }
+    // laptop
+    @media only screen and (min-width: ($md + 1px)) {
+        grid-template-columns: 1fr 1fr 1fr;
+        img {
+            width: 30vw;
+        }
+    }
+
+    @media only screen and (min-width: ($lg + 1px)) {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        img {
+            width: 25vw;
+        }
+    }
+}

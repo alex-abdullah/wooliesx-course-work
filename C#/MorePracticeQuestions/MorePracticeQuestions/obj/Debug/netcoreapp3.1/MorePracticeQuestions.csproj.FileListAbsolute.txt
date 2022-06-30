@@ -1,0 +1,13 @@
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/MorePracticeQuestions/MorePracticeQuestions/bin/Debug/netcoreapp3.1/MorePracticeQuestions.deps.json
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/MorePracticeQuestions/MorePracticeQuestions/bin/Debug/netcoreapp3.1/MorePracticeQuestions.runtimeconfig.json
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/MorePracticeQuestions/MorePracticeQuestions/bin/Debug/netcoreapp3.1/MorePracticeQuestions.runtimeconfig.dev.json
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/MorePracticeQuestions/MorePracticeQuestions/bin/Debug/netcoreapp3.1/MorePracticeQuestions.dll
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/MorePracticeQuestions/MorePracticeQuestions/bin/Debug/netcoreapp3.1/MorePracticeQuestions.pdb
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/MorePracticeQuestions/MorePracticeQuestions/obj/Debug/netcoreapp3.1/MorePracticeQuestions.csproj.AssemblyReference.cache
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/MorePracticeQuestions/MorePracticeQuestions/obj/Debug/netcoreapp3.1/MorePracticeQuestions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/MorePracticeQuestions/MorePracticeQuestions/obj/Debug/netcoreapp3.1/MorePracticeQuestions.AssemblyInfoInputs.cache
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/MorePracticeQuestions/MorePracticeQuestions/obj/Debug/netcoreapp3.1/MorePracticeQuestions.AssemblyInfo.cs
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/MorePracticeQuestions/MorePracticeQuestions/obj/Debug/netcoreapp3.1/MorePracticeQuestions.csproj.CoreCompileInputs.cache
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/MorePracticeQuestions/MorePracticeQuestions/obj/Debug/netcoreapp3.1/MorePracticeQuestions.dll
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/MorePracticeQuestions/MorePracticeQuestions/obj/Debug/netcoreapp3.1/MorePracticeQuestions.pdb
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/MorePracticeQuestions/MorePracticeQuestions/obj/Debug/netcoreapp3.1/MorePracticeQuestions.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/primitives/primitives/bin/Debug/netcoreapp3.1/primitives.deps.json
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/primitives/primitives/bin/Debug/netcoreapp3.1/primitives.runtimeconfig.json
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/primitives/primitives/bin/Debug/netcoreapp3.1/primitives.runtimeconfig.dev.json
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/primitives/primitives/bin/Debug/netcoreapp3.1/primitives.dll
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/primitives/primitives/bin/Debug/netcoreapp3.1/primitives.pdb
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/primitives/primitives/obj/Debug/netcoreapp3.1/primitives.csproj.AssemblyReference.cache
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/primitives/primitives/obj/Debug/netcoreapp3.1/primitives.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/primitives/primitives/obj/Debug/netcoreapp3.1/primitives.AssemblyInfoInputs.cache
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/primitives/primitives/obj/Debug/netcoreapp3.1/primitives.AssemblyInfo.cs
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/primitives/primitives/obj/Debug/netcoreapp3.1/primitives.csproj.CoreCompileInputs.cache
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/primitives/primitives/obj/Debug/netcoreapp3.1/primitives.dll
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/primitives/primitives/obj/Debug/netcoreapp3.1/primitives.pdb
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/primitives/primitives/obj/Debug/netcoreapp3.1/primitives.genruntimeconfig.cache

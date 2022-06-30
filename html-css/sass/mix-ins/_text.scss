@@ -1,0 +1,16 @@
+@mixin text {
+    font-family: Arial, Helvetica, sans-serif;
+
+    &--small {
+        font-size: small;
+    }
+    &--medium {
+        font-size: medium;
+    }
+    &--large {
+        font-size: large;
+    }
+    &--xLarge {
+        font-size: x-large;
+    }
+}

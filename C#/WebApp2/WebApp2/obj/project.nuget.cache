@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vu8bOkT9QAXk91apySxLVd3VNEVpWCQrp8iWp6rWX7gFwOeeQLtXaxNe8cdiszyBPUQ7CfwR5o/cc88JYsOoVA==",
+  "success": true,
+  "projectFilePath": "/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/WebApp2/WebApp2/WebApp2.csproj",
+  "expectedPackageFiles": [
+    "/Users/alexabdullah/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/alexabdullah/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/alexabdullah/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/alexabdullah/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/alexabdullah/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/alexabdullah/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

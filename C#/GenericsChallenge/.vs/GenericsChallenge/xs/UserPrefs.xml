@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{D8F7BB48-B323-4DBF-91B5-77F36548FB69}|Default">
+  <MonoDevelop.Ide.ItemProperties.GenericsChallenge PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GenericsChallenge/Program.cs">
+    <Files>
+      <File FileName="GenericsChallenge/Program.cs" Line="44" Column="1" />
+      <File FileName="GenericsChallenge/Catalogue.cs" Line="31" Column="12" />
+      <File FileName="GenericsChallenge/Product.cs" Line="1" Column="1" />
+      <File FileName="GenericsChallenge/NewStock.cs" Line="1" Column="1" />
+      <File FileName="GenericsChallenge/OldStock.cs" Line="1" Column="1" />
+      <File FileName="GenericsChallenge/IStore.cs" Line="1" Column="1" />
+      <File FileName="GenericsChallenge/Shoes.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

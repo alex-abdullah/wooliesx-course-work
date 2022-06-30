@@ -1,0 +1,49 @@
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color: white;
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    background-color: lightblue;
+}
+
+.button {
+    border: 2px solid blue;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 5px;
+}
+.button--small {
+    font-size: small;
+}
+.button--medium {
+    font-size: medium;
+}
+.button--large {
+    font-size: large;
+}
+.button--xLarge {
+    font-size: x-large;
+}
+.button--urgent {
+    color: red;
+    background-color: white;
+}
+.button--urgent:hover {
+    color: white;
+    background-color: red;
+}
+.button--success {
+    color: green;
+    background-color: white;
+}
+.button--success:hover {
+    color: white;
+    background-color: green;
+}

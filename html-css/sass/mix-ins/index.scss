@@ -1,0 +1,24 @@
+@use "flex" as *;
+@use "buttons" as *;
+$text-colour: black;
+
+nav {
+    @include flex(row);
+    background-color: white;
+}
+
+section {
+    @include flex(column);
+    background-color: lightblue;
+}
+
+.button {
+    @include buttons(blue);
+
+    &--urgent {
+        @include outline(white, red);
+    }
+    &--success {
+        @include outline(white, green);
+    }
+}

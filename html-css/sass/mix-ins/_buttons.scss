@@ -1,0 +1,18 @@
+@use "text" as *;
+
+@mixin buttons($colour) {
+    border: 2px solid $colour;
+    @include text;
+
+    border-radius: 5px;
+}
+
+@mixin outline($primary-colour, $secondary-colour) {
+    color: $secondary-colour;
+    background-color: $primary-colour;
+
+    &:hover {
+        color: $primary-colour;
+        background-color: $secondary-colour;
+    }
+}

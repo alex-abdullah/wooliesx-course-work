@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{B7474133-8D9C-4D4B-89A7-CC67A11DC615}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="minesweeper-project/tiles.cs">
+    <Files>
+      <File FileName="minesweeper-project/Program.cs" Line="11" Column="13" />
+      <File FileName="minesweeper-project/tiles.cs" Line="6" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="minesweeper-project" expanded="True">
+            <Node name="minesweeper-project" expanded="True">
+              <Node name="tiles.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.minesweeper-project FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

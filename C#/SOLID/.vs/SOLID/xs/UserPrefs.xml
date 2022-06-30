@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{E9035B36-CAAC-488F-A85A-C734837CC5A7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SOLID/Program.cs">
+    <Files>
+      <File FileName="SOLID/Program.cs" Line="16" Column="71" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SOLID" expanded="True">
+            <Node name="SOLID" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SOLID FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

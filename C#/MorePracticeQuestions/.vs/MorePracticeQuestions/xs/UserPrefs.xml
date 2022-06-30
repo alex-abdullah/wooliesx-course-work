@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{91829CEF-8311-4DC3-87C2-AB2DF9C08227}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MorePracticeQuestions/VeryAbstract.cs">
+    <Files>
+      <File FileName="MorePracticeQuestions/Program.cs" Line="12" Column="1" />
+      <File FileName="MorePracticeQuestions/VeryAbstract.cs" Line="10" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MorePracticeQuestions" expanded="True">
+            <Node name="MorePracticeQuestions" expanded="True">
+              <Node name="VeryAbstract.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MorePracticeQuestions PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

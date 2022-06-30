@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{51F8C7E2-17E5-4866-811F-4421030AB7D4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AsyncProgramming/Program.cs">
+    <Files>
+      <File FileName="AsyncProgramming/Program.cs" Line="176" Column="60" />
+      <File FileName="AsyncProgramming/BaconEggs.cs" Line="8" Column="9" />
+      <File FileName="AsyncProgramming/SoakedLentils.cs" Line="62" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AsyncProgramming" expanded="True">
+            <Node name="AsyncProgramming" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AsyncProgramming PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{D924ABEA-FCE4-4C0E-AC4B-06D9C4B8C1B4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Deserialization/Program.cs">
+    <Files>
+      <File FileName="Deserialization/Program.cs" Line="20" Column="1" NotebookId="1" />
+      <File FileName="Deserialization/Film.cs" Line="19" Column="48" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Deserialization" expanded="True">
+            <Node name="Deserialization" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Deserialization PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,13 @@
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/ActionsDelegates/ActionsDelegates/bin/Debug/netcoreapp3.1/ActionsDelegates.deps.json
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/ActionsDelegates/ActionsDelegates/bin/Debug/netcoreapp3.1/ActionsDelegates.runtimeconfig.json
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/ActionsDelegates/ActionsDelegates/bin/Debug/netcoreapp3.1/ActionsDelegates.runtimeconfig.dev.json
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/ActionsDelegates/ActionsDelegates/bin/Debug/netcoreapp3.1/ActionsDelegates.dll
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/ActionsDelegates/ActionsDelegates/bin/Debug/netcoreapp3.1/ActionsDelegates.pdb
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/ActionsDelegates/ActionsDelegates/obj/Debug/netcoreapp3.1/ActionsDelegates.csproj.AssemblyReference.cache
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/ActionsDelegates/ActionsDelegates/obj/Debug/netcoreapp3.1/ActionsDelegates.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/ActionsDelegates/ActionsDelegates/obj/Debug/netcoreapp3.1/ActionsDelegates.AssemblyInfoInputs.cache
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/ActionsDelegates/ActionsDelegates/obj/Debug/netcoreapp3.1/ActionsDelegates.AssemblyInfo.cs
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/ActionsDelegates/ActionsDelegates/obj/Debug/netcoreapp3.1/ActionsDelegates.csproj.CoreCompileInputs.cache
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/ActionsDelegates/ActionsDelegates/obj/Debug/netcoreapp3.1/ActionsDelegates.dll
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/ActionsDelegates/ActionsDelegates/obj/Debug/netcoreapp3.1/ActionsDelegates.pdb
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/ActionsDelegates/ActionsDelegates/obj/Debug/netcoreapp3.1/ActionsDelegates.genruntimeconfig.cache

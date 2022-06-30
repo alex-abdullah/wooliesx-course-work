@@ -1,0 +1,23 @@
+.heading {
+    color: red;
+}
+
+.heading__maing {
+    font-size: 36px;
+}
+
+.text {
+    color: black;
+}
+
+.text--dark {
+    color: whitesmoke;
+}
+
+.page {
+    background-color: whitesmoke;
+}
+
+.page--dark {
+    background-color: black;
+}

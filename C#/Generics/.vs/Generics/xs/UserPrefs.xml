@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{44BC2B71-3A03-48DD-8382-D96DC3EE8213}|Default">
+  <MonoDevelop.Ide.ItemProperties.Generics FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Generics/Program.cs">
+    <Files>
+      <File FileName="Generics/Program.cs" Line="56" Column="9" />
+      <File FileName="Generics/Cat.cs" Line="12" Column="6" />
+      <File FileName="Generics/TopThree.cs" Line="2" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Generics" expanded="True">
+            <Node name="Generics" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

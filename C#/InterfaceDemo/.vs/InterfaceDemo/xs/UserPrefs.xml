@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{A2F0538B-9E44-422C-B88D-DEEC59C28BDC}|Default">
+  <MonoDevelop.Ide.ItemProperties.InterfaceDemo FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="InterfaceDemo/Program.cs">
+    <Files>
+      <File FileName="InterfaceDemo/Program.cs" Line="1" Column="1" />
+      <File FileName="InterfaceDemo/Player.cs" />
+      <File FileName="InterfaceDemo/Potion.cs" />
+      <File FileName="InterfaceDemo/IEffect.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

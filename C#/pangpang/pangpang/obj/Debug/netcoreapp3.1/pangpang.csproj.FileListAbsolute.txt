@@ -1,0 +1,13 @@
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/pangpang/pangpang/bin/Debug/netcoreapp3.1/pangpang.deps.json
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/pangpang/pangpang/bin/Debug/netcoreapp3.1/pangpang.runtimeconfig.json
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/pangpang/pangpang/bin/Debug/netcoreapp3.1/pangpang.runtimeconfig.dev.json
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/pangpang/pangpang/bin/Debug/netcoreapp3.1/pangpang.dll
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/pangpang/pangpang/bin/Debug/netcoreapp3.1/pangpang.pdb
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/pangpang/pangpang/obj/Debug/netcoreapp3.1/pangpang.csproj.AssemblyReference.cache
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/pangpang/pangpang/obj/Debug/netcoreapp3.1/pangpang.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/pangpang/pangpang/obj/Debug/netcoreapp3.1/pangpang.AssemblyInfoInputs.cache
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/pangpang/pangpang/obj/Debug/netcoreapp3.1/pangpang.AssemblyInfo.cs
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/pangpang/pangpang/obj/Debug/netcoreapp3.1/pangpang.csproj.CoreCompileInputs.cache
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/pangpang/pangpang/obj/Debug/netcoreapp3.1/pangpang.dll
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/pangpang/pangpang/obj/Debug/netcoreapp3.1/pangpang.pdb
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/pangpang/pangpang/obj/Debug/netcoreapp3.1/pangpang.genruntimeconfig.cache

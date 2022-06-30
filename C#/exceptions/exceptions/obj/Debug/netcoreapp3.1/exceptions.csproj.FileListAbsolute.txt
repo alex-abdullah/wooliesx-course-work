@@ -1,0 +1,13 @@
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/exceptions/exceptions/bin/Debug/netcoreapp3.1/exceptions.deps.json
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/exceptions/exceptions/bin/Debug/netcoreapp3.1/exceptions.runtimeconfig.json
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/exceptions/exceptions/bin/Debug/netcoreapp3.1/exceptions.runtimeconfig.dev.json
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/exceptions/exceptions/bin/Debug/netcoreapp3.1/exceptions.dll
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/exceptions/exceptions/bin/Debug/netcoreapp3.1/exceptions.pdb
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/exceptions/exceptions/obj/Debug/netcoreapp3.1/exceptions.csproj.AssemblyReference.cache
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/exceptions/exceptions/obj/Debug/netcoreapp3.1/exceptions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/exceptions/exceptions/obj/Debug/netcoreapp3.1/exceptions.AssemblyInfoInputs.cache
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/exceptions/exceptions/obj/Debug/netcoreapp3.1/exceptions.AssemblyInfo.cs
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/exceptions/exceptions/obj/Debug/netcoreapp3.1/exceptions.csproj.CoreCompileInputs.cache
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/exceptions/exceptions/obj/Debug/netcoreapp3.1/exceptions.dll
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/exceptions/exceptions/obj/Debug/netcoreapp3.1/exceptions.pdb
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/exceptions/exceptions/obj/Debug/netcoreapp3.1/exceptions.genruntimeconfig.cache

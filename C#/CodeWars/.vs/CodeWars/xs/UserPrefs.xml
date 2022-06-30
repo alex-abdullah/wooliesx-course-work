@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{140376DB-74E5-43FD-8BF0-E4CD974B3CEC}|Default">
+  <MonoDevelop.Ide.ItemProperties.CodeWars FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CodeWars/Program.cs">
+    <Files>
+      <File FileName="CodeWars/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

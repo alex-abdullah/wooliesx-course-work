@@ -1,0 +1,13 @@
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/GenericsChallenge/GenericsChallenge/obj/Debug/netcoreapp3.1/GenericsChallenge.csproj.AssemblyReference.cache
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/GenericsChallenge/GenericsChallenge/obj/Debug/netcoreapp3.1/GenericsChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/GenericsChallenge/GenericsChallenge/obj/Debug/netcoreapp3.1/GenericsChallenge.AssemblyInfoInputs.cache
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/GenericsChallenge/GenericsChallenge/obj/Debug/netcoreapp3.1/GenericsChallenge.AssemblyInfo.cs
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/GenericsChallenge/GenericsChallenge/obj/Debug/netcoreapp3.1/GenericsChallenge.csproj.CoreCompileInputs.cache
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/GenericsChallenge/GenericsChallenge/bin/Debug/netcoreapp3.1/GenericsChallenge.deps.json
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/GenericsChallenge/GenericsChallenge/bin/Debug/netcoreapp3.1/GenericsChallenge.runtimeconfig.json
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/GenericsChallenge/GenericsChallenge/bin/Debug/netcoreapp3.1/GenericsChallenge.runtimeconfig.dev.json
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/GenericsChallenge/GenericsChallenge/bin/Debug/netcoreapp3.1/GenericsChallenge.dll
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/GenericsChallenge/GenericsChallenge/bin/Debug/netcoreapp3.1/GenericsChallenge.pdb
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/GenericsChallenge/GenericsChallenge/obj/Debug/netcoreapp3.1/GenericsChallenge.dll
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/GenericsChallenge/GenericsChallenge/obj/Debug/netcoreapp3.1/GenericsChallenge.pdb
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/GenericsChallenge/GenericsChallenge/obj/Debug/netcoreapp3.1/GenericsChallenge.genruntimeconfig.cache

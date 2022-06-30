@@ -1,0 +1,27 @@
+$german: 600px;
+$belgium: 900px;
+$irish: 901px;
+
+@mixin german() {
+    @media only screen and (max-width: $german) {
+        @content;
+    }
+}
+
+@mixin belgium {
+    @media only screen and (min-width: ($german + 1)) and (max-width: $belgium) {
+        @content;
+    }
+}
+
+@mixin irish {
+    @media only screen and (min-width: $irish) {
+        @content;
+    }
+}
+
+@mixin grid($column, $row, $color) {
+    grid-column: $column;
+    grid-row: $row;
+    background-color: $color;
+}

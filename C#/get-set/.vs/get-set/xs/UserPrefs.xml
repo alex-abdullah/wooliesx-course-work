@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{6B75D408-9312-46A2-9078-976FD2C114CC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="get-set/get-set.cs">
+    <Files>
+      <File FileName="get-set/Program.cs" Line="18" Column="13" />
+      <File FileName="get-set/get-set.cs" Line="10" Column="50" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="get-set" expanded="True">
+            <Node name="get-set" expanded="True">
+              <Node name="get-set.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.get-set PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

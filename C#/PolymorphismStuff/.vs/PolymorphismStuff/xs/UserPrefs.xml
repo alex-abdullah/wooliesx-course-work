@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{47EA9532-DA27-4660-830F-0E8AECA3AE71}|Default">
+  <MonoDevelop.Ide.ItemProperties.PolymorphismStuff PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PolymorphismStuff/TekkenCharacter.cs">
+    <Files>
+      <File FileName="PolymorphismStuff/Program.cs" Line="17" Column="37" />
+      <File FileName="PolymorphismStuff/TekkenCharacter.cs" Line="11" Column="29" />
+      <File FileName="PolymorphismStuff/MainCast.cs" Line="19" Column="10" />
+      <File FileName="PolymorphismStuff/2DCharacters.cs" Line="6" Column="72" />
+      <File FileName="PolymorphismStuff/Mishima.cs" Line="10" Column="1" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PolymorphismStuff" expanded="True">
+            <Node name="PolymorphismStuff" expanded="True">
+              <Node name="TekkenCharacter.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

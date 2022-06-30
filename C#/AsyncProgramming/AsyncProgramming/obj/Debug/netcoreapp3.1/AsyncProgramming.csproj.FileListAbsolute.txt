@@ -1,0 +1,13 @@
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/AsyncProgramming/AsyncProgramming/bin/Debug/netcoreapp3.1/AsyncProgramming.deps.json
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/AsyncProgramming/AsyncProgramming/bin/Debug/netcoreapp3.1/AsyncProgramming.runtimeconfig.json
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/AsyncProgramming/AsyncProgramming/bin/Debug/netcoreapp3.1/AsyncProgramming.runtimeconfig.dev.json
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/AsyncProgramming/AsyncProgramming/bin/Debug/netcoreapp3.1/AsyncProgramming.dll
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/AsyncProgramming/AsyncProgramming/bin/Debug/netcoreapp3.1/AsyncProgramming.pdb
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/AsyncProgramming/AsyncProgramming/obj/Debug/netcoreapp3.1/AsyncProgramming.csproj.AssemblyReference.cache
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/AsyncProgramming/AsyncProgramming/obj/Debug/netcoreapp3.1/AsyncProgramming.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/AsyncProgramming/AsyncProgramming/obj/Debug/netcoreapp3.1/AsyncProgramming.AssemblyInfoInputs.cache
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/AsyncProgramming/AsyncProgramming/obj/Debug/netcoreapp3.1/AsyncProgramming.AssemblyInfo.cs
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/AsyncProgramming/AsyncProgramming/obj/Debug/netcoreapp3.1/AsyncProgramming.csproj.CoreCompileInputs.cache
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/AsyncProgramming/AsyncProgramming/obj/Debug/netcoreapp3.1/AsyncProgramming.dll
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/AsyncProgramming/AsyncProgramming/obj/Debug/netcoreapp3.1/AsyncProgramming.pdb
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/AsyncProgramming/AsyncProgramming/obj/Debug/netcoreapp3.1/AsyncProgramming.genruntimeconfig.cache

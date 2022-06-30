@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{8FFDA8E6-6796-4B30-8CAD-2736E232F465}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="get-set-example/Program.cs">
+    <Files>
+      <File FileName="get-set-example/Program.cs" Line="19" Column="53" />
+      <File FileName="get-set-example/movies.cs" Line="23" Column="49" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="get-set-example" expanded="True">
+            <Node name="get-set-example" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.get-set-example PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

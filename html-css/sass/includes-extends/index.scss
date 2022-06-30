@@ -1,0 +1,27 @@
+// Includes & Extends
+// What is the difference?
+
+// Why do we use the @include keyword
+// Why use includes to apply our @mixins to our other classes
+
+// @extends work in a similar way
+// Allows us to apply existing classes as they they were mixins
+
+.background-style {
+    background-color: gainsboro;
+    color: indigo;
+}
+
+%placeholder-class {
+    background-color: blue;
+    color: white;
+}
+
+.button {
+    @extend .background-style;
+    border: 2px solid black;
+}
+
+.card {
+    @extend %placeholder-class;
+}

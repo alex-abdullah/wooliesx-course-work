@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{719A6F10-A7F7-4DB4-A69E-178E977DD715}|Default">
+  <MonoDevelop.Ide.ItemProperties.CustomWebServer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CustomWebServer/WebServer.cs">
+    <Files>
+      <File FileName="CustomWebServer/Program.cs" Line="14" Column="13" />
+      <File FileName="CustomWebServer/WebServer.cs" Line="12" Column="70" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CustomWebServer" expanded="True">
+            <Node name="CustomWebServer" expanded="True">
+              <Node name="WebServer.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

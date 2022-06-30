@@ -1,0 +1,13 @@
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/get-set/get-set-example/get-set-example/bin/Debug/netcoreapp3.1/get-set-example.deps.json
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/get-set/get-set-example/get-set-example/bin/Debug/netcoreapp3.1/get-set-example.runtimeconfig.json
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/get-set/get-set-example/get-set-example/bin/Debug/netcoreapp3.1/get-set-example.runtimeconfig.dev.json
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/get-set/get-set-example/get-set-example/bin/Debug/netcoreapp3.1/get-set-example.dll
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/get-set/get-set-example/get-set-example/bin/Debug/netcoreapp3.1/get-set-example.pdb
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/get-set/get-set-example/get-set-example/obj/Debug/netcoreapp3.1/get-set-example.csproj.AssemblyReference.cache
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/get-set/get-set-example/get-set-example/obj/Debug/netcoreapp3.1/get-set-example.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/get-set/get-set-example/get-set-example/obj/Debug/netcoreapp3.1/get-set-example.AssemblyInfoInputs.cache
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/get-set/get-set-example/get-set-example/obj/Debug/netcoreapp3.1/get-set-example.AssemblyInfo.cs
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/get-set/get-set-example/get-set-example/obj/Debug/netcoreapp3.1/get-set-example.csproj.CoreCompileInputs.cache
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/get-set/get-set-example/get-set-example/obj/Debug/netcoreapp3.1/get-set-example.dll
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/get-set/get-set-example/get-set-example/obj/Debug/netcoreapp3.1/get-set-example.pdb
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/get-set/get-set-example/get-set-example/obj/Debug/netcoreapp3.1/get-set-example.genruntimeconfig.cache

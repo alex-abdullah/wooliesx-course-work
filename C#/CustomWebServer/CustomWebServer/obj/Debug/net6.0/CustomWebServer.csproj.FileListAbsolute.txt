@@ -1,0 +1,15 @@
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/CustomWebServer/CustomWebServer/obj/Debug/net6.0/CustomWebServer.csproj.AssemblyReference.cache
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/CustomWebServer/CustomWebServer/obj/Debug/net6.0/CustomWebServer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/CustomWebServer/CustomWebServer/obj/Debug/net6.0/CustomWebServer.AssemblyInfoInputs.cache
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/CustomWebServer/CustomWebServer/obj/Debug/net6.0/CustomWebServer.AssemblyInfo.cs
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/CustomWebServer/CustomWebServer/obj/Debug/net6.0/CustomWebServer.csproj.CoreCompileInputs.cache
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/CustomWebServer/CustomWebServer/bin/Debug/net6.0/CustomWebServer
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/CustomWebServer/CustomWebServer/bin/Debug/net6.0/CustomWebServer.deps.json
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/CustomWebServer/CustomWebServer/bin/Debug/net6.0/CustomWebServer.runtimeconfig.json
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/CustomWebServer/CustomWebServer/bin/Debug/net6.0/CustomWebServer.dll
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/CustomWebServer/CustomWebServer/bin/Debug/net6.0/CustomWebServer.pdb
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/CustomWebServer/CustomWebServer/obj/Debug/net6.0/CustomWebServer.dll
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/CustomWebServer/CustomWebServer/obj/Debug/net6.0/refint/CustomWebServer.dll
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/CustomWebServer/CustomWebServer/obj/Debug/net6.0/CustomWebServer.pdb
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/CustomWebServer/CustomWebServer/obj/Debug/net6.0/CustomWebServer.genruntimeconfig.cache
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/CustomWebServer/CustomWebServer/obj/Debug/net6.0/ref/CustomWebServer.dll

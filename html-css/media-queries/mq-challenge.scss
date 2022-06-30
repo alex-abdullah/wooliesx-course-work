@@ -1,0 +1,49 @@
+@use "flag-stuff" as *;
+
+.grid-container {
+    display: grid;
+    // grid-template-rows: 1fr 1fr 1fr;
+    grid-template-columns: auto auto auto;
+    height: 100vh;
+    margin: 0;
+}
+
+@include german {
+    .one {
+        @include grid(#{1 / 4}, #{1 / 2}, black);
+    }
+
+    .two {
+        @include grid(#{1 / 4}, #{2 / 3}, red);
+    }
+
+    .three {
+        @include grid(#{1 / 4}, #{3 / 4}, yellow);
+    }
+}
+@include belgium {
+    .one {
+        @include grid(#{1 / 2}, #{1 / 4}, black);
+    }
+
+    .two {
+        @include grid(#{2 / 3}, #{1 / 4}, yellow);
+    }
+
+    .three {
+        @include grid(#{3 / 4}, #{1 / 4}, red);
+    }
+}
+
+@include irish {
+    .one {
+        @include grid(#{1 / 2}, #{1 / 4}, green);
+    }
+    .two {
+        @include grid(#{2 / 3}, #{1 / 4}, white);
+    }
+
+    .three {
+        @include grid(#{3 / 4}, #{1 / 4}, orange);
+    }
+}

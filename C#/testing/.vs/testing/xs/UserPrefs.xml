@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{AFFC01CD-FF74-4964-BA1F-E5BDD2EB38CA}|Default">
+  <MonoDevelop.Ide.ItemProperties.testing PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="testing/StringUtils.cs">
+    <Files>
+      <File FileName="testing/Program.cs" Line="44" Column="53" />
+      <File FileName="testing/Math.cs" Line="17" Column="51" />
+      <File FileName="testing/StringUtils.cs" Line="2" Column="22" />
+      <File FileName="Tests/StringTesting.cs" Line="11" Column="48" />
+      <File FileName="Tests/MathTest.cs" Line="13" Column="38" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="testing" expanded="True">
+            <Node name="testing" expanded="True">
+              <Node name="StringUtils.cs" selected="True" />
+            </Node>
+            <Node name="Tests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="testing" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

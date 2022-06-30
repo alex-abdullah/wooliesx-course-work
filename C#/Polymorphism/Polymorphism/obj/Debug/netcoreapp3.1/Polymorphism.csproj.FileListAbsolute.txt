@@ -1,0 +1,13 @@
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/Polymorphism/Polymorphism/bin/Debug/netcoreapp3.1/Polymorphism.deps.json
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/Polymorphism/Polymorphism/bin/Debug/netcoreapp3.1/Polymorphism.runtimeconfig.json
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/Polymorphism/Polymorphism/bin/Debug/netcoreapp3.1/Polymorphism.runtimeconfig.dev.json
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/Polymorphism/Polymorphism/bin/Debug/netcoreapp3.1/Polymorphism.dll
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/Polymorphism/Polymorphism/bin/Debug/netcoreapp3.1/Polymorphism.pdb
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/Polymorphism/Polymorphism/obj/Debug/netcoreapp3.1/Polymorphism.csproj.AssemblyReference.cache
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/Polymorphism/Polymorphism/obj/Debug/netcoreapp3.1/Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/Polymorphism/Polymorphism/obj/Debug/netcoreapp3.1/Polymorphism.AssemblyInfoInputs.cache
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/Polymorphism/Polymorphism/obj/Debug/netcoreapp3.1/Polymorphism.AssemblyInfo.cs
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/Polymorphism/Polymorphism/obj/Debug/netcoreapp3.1/Polymorphism.csproj.CoreCompileInputs.cache
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/Polymorphism/Polymorphism/obj/Debug/netcoreapp3.1/Polymorphism.dll
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/Polymorphism/Polymorphism/obj/Debug/netcoreapp3.1/Polymorphism.pdb
+/Users/alexabdullah/Dropbox/Mac/Desktop/all-wooliesx-work/woolies-x/wooliesx-course-work/C#/Polymorphism/Polymorphism/obj/Debug/netcoreapp3.1/Polymorphism.genruntimeconfig.cache
